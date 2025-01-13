@@ -1,4 +1,5 @@
 {
+  "repository": "https://github.com/joshharbaugh/nextjs-dashboard.git",
   "private": true,
   "scripts": {
     "build": "next build",
